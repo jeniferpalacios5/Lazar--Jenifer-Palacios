@@ -1,0 +1,18 @@
+.elam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -280px;
+    height: 100vh;
+    color: rgb(255, 255, 255);
+}
+.nanoo{
+    font-size: 70px;
+}
+.isai{
+    height: 5vh;
+}
+.red{
+    margin-left: 50px;
+    margin-top: -300px;
+}

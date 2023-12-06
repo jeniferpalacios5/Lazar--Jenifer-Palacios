@@ -1,0 +1,14 @@
+.esec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -280px;
+    height: 100vh;
+    color: rgb(255, 255, 255);
+}
+.nari{
+    font-size: 70px;
+}
+.gor{
+   margin-top:-280px
+}

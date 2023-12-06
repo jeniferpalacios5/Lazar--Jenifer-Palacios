@@ -1,0 +1,54 @@
+.sant{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: -280px;
+    margin-left: -50px;
+    height: 100vh;
+    color: rgb(255, 255, 255);
+}
+.sari{
+    font-size: 70px;
+}
+
+.isa{
+margin-bottom: 20px;
+margin-left: -120px;
+margin-top:-200px;
+}
+.mari{
+   width: 190px;
+   height: 65px;
+   background: #a0e1ff;
+   border-color: #7BD1FA;
+   font-size: 30px;
+}
+.juan{
+  min-height: 120px;
+}
+.juli{
+    max-width: 300px;
+    width: 100%;
+    margin-left:120px;
+    font-size: 22px;
+}
+.telt{
+    margin-bottom: 20px;
+    margin-left: 120px;
+    margin-top:-200px;
+}
+.mirt{
+    width: 190px;
+    height: 65px;
+    background: #a0e1ff;
+    border-color: #7BD1FA;
+    font-size: 30px;
+}
+.ari{
+    min-height: 120px;
+}
+.dey{
+   max-width: 300px;
+   width: 100%;
+   font-size: 22px;
+}

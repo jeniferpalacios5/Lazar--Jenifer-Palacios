@@ -1,0 +1,25 @@
+
+
+.esec{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: -180px;
+    height: 100vh;
+    color: rgb(255, 255, 255);
+}
+.nari{
+        font-size: 70px; 
+}
+.sam{
+   margin-top:-280px;
+   font-size: 22px;
+}
+.ale{
+   font-size:25px;
+   color: #2e88fd;
+}
+.juanm{
+    font-size:25px;
+    color: #4ec5fc;
+}

@@ -1,0 +1,19 @@
+.pepe{
+    margin-top: -322px;
+    margin-left: -160px;
+}
+
+.andrea{
+    font-size: 22px;
+}
+.lore{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: -280px; 
+    height: 100vh; 
+    color: rgb(255, 255, 255);
+}
+.infor{
+    font-size: 70px;
+}

@@ -1,0 +1,39 @@
+.obje{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: -280px;
+height: 100vh;
+color: rgb(255, 255, 255);
+}
+.samuu{
+    display: block;
+    margin: 0 auto;
+    margin-top: -270px;
+    width: 290px;
+    height: 125px;
+    background-color:#7BD1FA;
+    border-color: #5aa0fc;
+    font-size: 30px;
+}
+.min{
+    display: block;
+    margin: 0 auto;
+}
+.jes{
+    font-size: 25px;
+    background-color: #7BD1FA;
+}
+.rul{
+    font-size: 22px;
+}
+.porr{
+    margin-top: 20px;
+    margin-top:-100px;
+   }
+   .jii{
+       text-align: center;
+   }
+   .marie{
+     font-size: 70px;
+   }
